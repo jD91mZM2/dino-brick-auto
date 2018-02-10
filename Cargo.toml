@@ -1,0 +1,9 @@
+[package]
+authors = ["jD91mZM2 <me@krake.one>"]
+name = "dino-brick-ai"
+version = "0.1.0"
+[dependencies]
+failure = "0.1.1"
+nix = "0.10.0"
+pty = "0.2.2"
+termion = "1.5.1"
